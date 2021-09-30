@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532467837967",
+    "project_id": "bmi-calci-65524",
+    "storage_bucket": "bmi-calci-65524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532467837967:android:92c694586be2d2a70a877a",
+        "android_client_info": {
+          "package_name": "com.example.bmi_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532467837967-kljunb95i3m9lpvn6gn0n9eckaibi96l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgvhevJQhXI72VynggK-ddzsT-pkc_Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532467837967-kljunb95i3m9lpvn6gn0n9eckaibi96l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
